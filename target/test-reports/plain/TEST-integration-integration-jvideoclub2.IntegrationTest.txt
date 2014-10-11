@@ -1,0 +1,37 @@
+Testsuite: jvideoclub2.IntegrationTest
+Tests run: 10, Failures: 0, Errors: 0, Time elapsed: 0,955 sec
+------------- Standard Output ---------------
+--Output from testPI_BBDD_SOCIO_CrearSocio--
+--Output from testPI_BBDD_DIST_CrearDistribuidor--
+--Output from testPI_BBDD_SOCIO_EliminarSocio--
+--Output from testPI_BBDD_PEL_CrearPelicula--
+--Output from testPI_DIST_PEL_CrearPelicula--
+--Output from testPI_BBDD_DIST_EliminarPelicula--
+--Output from testPI_PEL_SOP_EliminarSoporte--
+--Output from testPI_BBDD_DIST_EliminarDistribuidorConPeliculaAsociada--
+--Output from testPI_PEL_SOP_CrearSoporte--
+--Output from testPI_BBDD_DIST_EliminarDistribuidor--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testPI_BBDD_SOCIO_CrearSocio--
+--Output from testPI_BBDD_DIST_CrearDistribuidor--
+--Output from testPI_BBDD_SOCIO_EliminarSocio--
+--Output from testPI_BBDD_PEL_CrearPelicula--
+--Output from testPI_DIST_PEL_CrearPelicula--
+--Output from testPI_BBDD_DIST_EliminarPelicula--
+--Output from testPI_PEL_SOP_EliminarSoporte--
+--Output from testPI_BBDD_DIST_EliminarDistribuidorConPeliculaAsociada--
+--Output from testPI_PEL_SOP_CrearSoporte--
+--Output from testPI_BBDD_DIST_EliminarDistribuidor--
+------------- ---------------- ---------------
+
+Testcase: testPI_BBDD_SOCIO_CrearSocio took 0,368 sec
+Testcase: testPI_BBDD_DIST_CrearDistribuidor took 0,055 sec
+Testcase: testPI_BBDD_SOCIO_EliminarSocio took 0,112 sec
+Testcase: testPI_BBDD_PEL_CrearPelicula took 0,064 sec
+Testcase: testPI_DIST_PEL_CrearPelicula took 0,055 sec
+Testcase: testPI_BBDD_DIST_EliminarPelicula took 0,038 sec
+Testcase: testPI_PEL_SOP_EliminarSoporte took 0,047 sec
+Testcase: testPI_BBDD_DIST_EliminarDistribuidorConPeliculaAsociada took 0,103 sec
+Testcase: testPI_PEL_SOP_CrearSoporte took 0,056 sec
+Testcase: testPI_BBDD_DIST_EliminarDistribuidor took 0,026 sec
